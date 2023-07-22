@@ -1,1 +1,1 @@
-# JackOS
+# My Custom OS
